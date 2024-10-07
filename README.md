@@ -5,4 +5,5 @@ Section 1 tasks:-
 2. Calculate the flop ratio.
    
    Flop Ratio = (Number of D Flip-Flops) / (Total Number of Cells)
+   
    Percentage of DFFs = Flop Ratio * 100
