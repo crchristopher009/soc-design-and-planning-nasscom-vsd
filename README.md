@@ -8,7 +8,7 @@ Section 1 tasks:-
    
    Percentage of DFFs = Flop Ratio * 100
    
-###1. Run 'picorv32a' design synthesis using OpenLANE flow and generate necessary outputs.
+### 1. Run 'picorv32a' design synthesis using OpenLANE flow and generate necessary outputs.
 Commands to invoke the OpenLANE flow and perform synthesis
    
          # Change directory to openlane flow directory
@@ -36,14 +36,19 @@ Commands to invoke the OpenLANE flow and perform synthesis
          exit
 
    Screenshots of running each commands
+   
    ![Screenshot 2024-10-08 203821](https://github.com/user-attachments/assets/56af8e5b-3948-47af-b3ca-8e3b5b024a3a)
    ![Screenshot 2024-10-08 203833](https://github.com/user-attachments/assets/851df45e-70c2-45c2-9304-f5e5abf198b9)
    ![Screenshot 2024-10-08 203557](https://github.com/user-attachments/assets/2c15dcc9-07d2-4d09-8bce-1b69156fc55b)
 
-   ###2. Calculate the flop ratio
+   ### 2. Calculate the flop ratio
+   
    Screenshots of synthesis statistics report file with required values highlighted
+   
    ![Screenshot 2024-10-08 204410](https://github.com/user-attachments/assets/569e57ac-d9e5-48fe-bd0e-71414f59064d)
+   
    FLop Ratio = 1613/14876 = 0.108429685
+   
    Percentage of DFFs = 0.108429685 * 100 = 10.84296854%
 
 
