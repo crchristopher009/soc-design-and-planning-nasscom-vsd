@@ -38,7 +38,9 @@ Commands to invoke the OpenLANE flow and perform synthesis
    Screenshots of running each commands
    
    ![Screenshot 2024-10-08 203821](https://github.com/user-attachments/assets/56af8e5b-3948-47af-b3ca-8e3b5b024a3a)
+   
    ![Screenshot 2024-10-08 203833](https://github.com/user-attachments/assets/851df45e-70c2-45c2-9304-f5e5abf198b9)
+   
    ![Screenshot 2024-10-08 203557](https://github.com/user-attachments/assets/2c15dcc9-07d2-4d09-8bce-1b69156fc55b)
 
    ### 2. Calculate the flop ratio
@@ -47,7 +49,7 @@ Commands to invoke the OpenLANE flow and perform synthesis
    
    ![Screenshot 2024-10-08 204410](https://github.com/user-attachments/assets/569e57ac-d9e5-48fe-bd0e-71414f59064d)
    
-   FLop Ratio = 1613/14876 = 0.108429685
+   Flop Ratio = 1613/14876 = 0.108429685
    
    Percentage of DFFs = 0.108429685 * 100 = 10.84296854%
 
